@@ -1,0 +1,34 @@
+{
+  "superheroes" : [
+    {
+      "id" : 1,
+      "name" : "batman",
+      "alterEgo" : "Bruce Waune"
+    },
+    {
+      "id" : 2,
+      "name" : "superman",
+      "alterEgo" : "Clark Kent"
+    },
+    {
+      "id" : 3,
+      "name" : "wonder woman 3",
+      "alterEgo" : "Princess Diana"
+    },
+    {
+      "id" : 4,
+      "name" : "wonder woman 4",
+      "alterEgo" : "Princess Diana"
+    },
+    {
+      "id" : 5,
+      "name" : "wonder woman 5",
+      "alterEgo" : "Princess Diana"
+    },
+    {
+      "id" : 6,
+      "name" : "wonder woman 6",
+      "alterEgo" : "Princess Diana"
+    }
+  ]
+}
