@@ -37,6 +37,12 @@ const Navbar = () => {
         >
           pagination
         </Link>
+        <Link
+          style={{ color: "white", textDecoration: "none", fontSize: "20px" }}
+          to={"/infinitequery"}
+        >
+          Infinite Query
+        </Link>
       </div>
       <Outlet />
     </>

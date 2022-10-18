@@ -7,5 +7,5 @@ const fetchData = async () => {
 };
 
 export const useHeroesData = () => {
-  return useQuery("hero", fetchData, {});
+  return useQuery("superheroes", fetchData, {});
 };
